@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.fruitData{
+	margin-left: 25%;
+	margin-right: 25%;
+	color: pink;
+}
+
+table{
+	background-color: black;
+	color: pink;
+}
+th,td {
+	color: pink;
+}
